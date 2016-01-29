@@ -1,6 +1,6 @@
 {
   "name": "passport-cognito",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "passport strategy to authenticate any token-based backend to AWS Cognito with Developer Authenticated Identities flow.",
   "main": "./lib",
   "author": "Jacopo Teneggi",
